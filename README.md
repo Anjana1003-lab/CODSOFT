@@ -1,2 +1,2 @@
 # CODSOFT
-Data science repo
+Project 1 - iris classification
